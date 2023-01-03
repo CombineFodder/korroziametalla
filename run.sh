@@ -8,7 +8,7 @@ export CLIP_CONTEXTS=3
 export AMP="1"
 export MODEL="stable-diffusion"
 export DEV="True"
-export MODEL_PATH="models/"
+export MODEL_PATH="models/animefull-latest"
 #these aren't actually used by the site
 #export MODULE_PATH="models/modules"
 #unclear if these are used either
